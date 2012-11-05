@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Global -->
+    <string name="title">Welcome to Note Ton STA. \nPlease choose your campus in the list below:</string>
+    <string name="no_intervention">You didn\'t choose a campus, or there is no intervention to display.</string>
+    <string name="app_name">Note Ton STA Client</string>
+    <string name="submit">Submit</string>
+    
+    <!-- Evaluate -->
+    <string name="idbooster"> ID Booster : </string>
+    <string name="about_speaker"> About the Speaker : </string>
+    <string name="know_subject"> Knowledge of the subject : </string>
+    <string name="teach_ability"> His Teaching Abilities : </string>
+    <string name="answe_rquality"> The quality of his answers : </string>
+    <string name="about_slide"> About the slides :</string>
+    <string name="content_rich"> The richness of the content : </string>
+    <string name="format_layout"> The Format / Layout : </string>
+    <string name="examples"> The examples : </string>
+    <string name="comment">Type your comments here </string>
+    <string name="ch1000">1000</string>
+    
+    <!-- Detail -->
+    <string name="campus"> Campus : </string>
+    <string name="from"> From : </string>
+    <string name="to"> To : </string>
+    <string name="description"> Description :</string>
+    <string name="nbMark">Number of Mark :</string>
+    <string name="spMark">Speaker Mark :</string>
+    <string name="slMark">Slide Mark :</string>
+    <string name="glmark">Global Event Mark :</string>
+    <string name="rate_it">Rate it!</string>
+    
+    <string name="none"> None</string>
+    <string name="no_date"> No date</string>
+    <string name="no_description"> No description</string>
+    <string name="no_mark"> No mark</string>
+    <string name="ch0">0</string>
+    
+
+</resources>
