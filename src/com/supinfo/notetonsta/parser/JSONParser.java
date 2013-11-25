@@ -15,6 +15,12 @@ import com.supinfo.notetonsta.entity.Mark;
 
 import android.util.Log;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class JSONParser extends Parser{
 
 	private static final String CONTENT_TYPE = "application/json";

@@ -15,8 +15,8 @@ import org.apache.http.util.EntityUtils;
  */
 public abstract class Parser {
 
-	//protected static final String site = "http://10.0.2.2:8080/NoteTonSTA/ressources/";
-        protected static final String site = "http://10.0.2.2:8080/ressources/";
+	protected static final String site = "http://10.0.2.2:8080/NoteTonSTA/ressources/";
+    //protected static final String site = "http://10.0.2.2:8080/ressources/";
 	protected static final String res_campus = "campus/";
 	protected static final String res_intervention = "intervention/";
 	protected static final String res_mark = "mark/";

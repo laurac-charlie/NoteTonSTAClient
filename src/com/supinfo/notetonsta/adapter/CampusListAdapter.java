@@ -10,6 +10,12 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class CampusListAdapter extends BaseAdapter {
 
 	private Context context = null;

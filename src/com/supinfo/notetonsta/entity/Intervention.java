@@ -4,7 +4,12 @@ import java.util.List;
 import java.io.Serializable;
 import java.sql.Date;
 
-
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class Intervention implements Serializable{
 
 	private static final long serialVersionUID = 1L;

@@ -3,6 +3,12 @@ package com.supinfo.notetonsta.entity;
 import java.io.Serializable;
 import java.util.List;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class Campus implements Serializable{
 
 	/**

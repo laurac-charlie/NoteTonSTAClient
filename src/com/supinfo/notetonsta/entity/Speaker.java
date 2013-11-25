@@ -3,6 +3,12 @@ package com.supinfo.notetonsta.entity;
 import java.io.Serializable;
 import java.util.List;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class Speaker implements Serializable{
 
 	private static final long serialVersionUID = 1L;

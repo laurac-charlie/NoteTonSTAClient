@@ -14,6 +14,12 @@ import android.widget.TextView;
 import com.supinfo.notetonsta.activity.R;
 import com.supinfo.notetonsta.entity.Intervention;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class InterventionListAdapter extends BaseAdapter {
 
 	private Context context = null;

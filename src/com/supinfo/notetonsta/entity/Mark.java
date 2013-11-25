@@ -2,6 +2,12 @@ package com.supinfo.notetonsta.entity;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author Charlie
+ * @version 1.0
+ *
+ */
 public class Mark implements Serializable{
 
 	/**
